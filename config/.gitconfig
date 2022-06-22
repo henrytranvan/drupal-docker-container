@@ -1,0 +1,7 @@
+[user]
+	email = henry.tranvan@gmail.com
+	name = Henry Tran
+[color]
+	ui = true
+[core]
+	excludesfile = '~/.gitignore'
